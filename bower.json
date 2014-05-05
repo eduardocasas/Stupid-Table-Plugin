@@ -1,0 +1,12 @@
+{
+  "name": "eduardocasas-jquery.tablesorter",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "< 2"
+  },
+  "directory": "eduardocasas",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eduardocasas/Stupid-Table-Plugin.git"
+  }
+}
