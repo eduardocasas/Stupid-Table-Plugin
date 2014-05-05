@@ -1,8 +1,16 @@
 Stupid jQuery Table Sort
 ========================
 
-This is a stupid jQuery table sorting plugin. Nothing fancy, nothing really
-impressive. Overall, stupidly simple.
+This is a jQuery table sorting plugin. 
+
+This project is a fork from  <a href="https://github.com/joequery/Stupid-Table-Plugin">joequery/Stupid-Table-Plugin
+</a>.
+
+<h2>Changes</h2>
+
+<ol>
+<li>"bower.json" manifest JSON added</li>
+</ol>
 
 [View the demo here][0]
 
