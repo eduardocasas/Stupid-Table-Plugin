@@ -9,16 +9,15 @@ This project is a fork from  <a href="https://github.com/joequery/Stupid-Table-P
 <h2>Changes</h2>
 
 <ol>
-<li>"bower.json" manifest JSON added</li>
+<li>"bower.json" manifest JSON added (package name: "eduardocasas-jquery.tablesorter")</li>
 </ol>
-
-[View the demo here][0]
-
-See the example.html document to see how to implement it.
 
 
 Example Usage
 -------------
+
+[View the demo here][0]
+
 
 The JS:
 
